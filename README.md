@@ -77,3 +77,35 @@ Merupakan salah satu file konfigurasi dari TailwindCSS dimana file ini memiliki 
 File : tsconfig.json
 
 Merupakan file konfigurasi yang digunakan dalam proyek yang menggunakan TypeScript dimana TypeScript yang terdapat pada proyek dibuat untuk mengatur komposisi directory dari file tersebut.
+
+Soal 3
+
+Tampilan Browser setelah  " npm run dev " terjadi perubahan sesuai dengan latest code yang telah diperbaharui, dimana code ini akan auto running setelah code di save dan function berjalan dengan benar
+
+![foto](image/week%202,%203.1.png)
+
+Soal 4 
+
+Membuat komponen " MytextNimName " dan setelah code di terapkan maka function akan berjalan dan akan terotomatis update dan running
+
+![foto](image/week%202,%204.2.png)
+
+Soal 5
+
+Komponen " MyPage " akan mengunakan function yang dimana akan mengambil dan menampilkan page terbaru sesuai code yang diberikan
+
+![foto](image/week%202,%205.1.png)
+
+Soal 6
+
+Dengan menggunakan kode JSX yang nanti nya code ini akan memanggil inputan beserta export function yang telah dibuat untuk menampilkan isi dari data yang diberikan pada code dan menampilkan hasil gambar yang akan diambil setelah seluruh function berhasil berjalan
+
+![foto](image/week%202,%206.1.png)
+
+Hasil : ![foto](image/week%202,%206.2.png)
+
+
+
+source : 
+Codelabs, JTI Polinema. Pemrograman Berbasis Framework, 02 Pengenalan ReactJS. https://jti-polinema.github.io/pbf-codelab/02-pengenalan-reactjs/#5.
+ access at 28 February 2024
